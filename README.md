@@ -33,4 +33,4 @@ Open the .pbix file in Power BI Desktop
 
 Customize data sources as needed
 
-View live report via published Power BI link (optional)
+View live report via published Power BI link (https://app.powerbi.com/groups/me/reports/6b3cc35b-5a49-49a9-84c4-950d768dd6e0/12912170c8eea7b6011a?experience=power-bi)
