@@ -1,5 +1,5 @@
 # Business_insights
-This repository showcases a comprehensive Power BI dashboard designed to provide a 360° view of organizational performance across key functions.
+This project showcases a comprehensive Power BI dashboard designed to provide a 360° view of organizational performance across key functions.
 
 🔍 Dashboard Highlights
 Finance View: Tracks profitability, revenue, cost breakdowns, and unit economics with waterfall and donut charts.
